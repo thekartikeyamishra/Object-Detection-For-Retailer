@@ -1,10 +1,10 @@
-### **Object Detection in Retail Settings: **
+### Object Detection in Retail Settings: 
 
 This project uses **YOLOv5** or **SSD** to detect common objects in retail settings, such as products on shelves. It’s designed to help businesses automate inventory monitoring and improve retail analytics.
 
 ---
 
-### **File and Folder Structure**
+### File and Folder Structure
 
 ```bash
 RetailObjectDetection/
@@ -26,7 +26,7 @@ RetailObjectDetection/
 
 ---
 
-### **README File for GitHub**
+### README File for GitHub
 
 ```markdown
 # Retail Object Detection (Basic Version)
@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 ---
 
-### **Step-by-Step Instructions**
+### Step-by-Step Instructions
 
 1. **Clone the Repository**:
    ```bash
