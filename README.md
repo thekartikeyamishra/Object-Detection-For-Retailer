@@ -149,6 +149,10 @@ RetailObjectDetection/
 
 ---
 
+- * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+
+ ---
+
 ## Acknowledgments
 
 - [YOLOv5](https://github.com/ultralytics/yolov5) for the pre-trained object detection models.
